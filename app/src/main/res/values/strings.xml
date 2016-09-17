@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RevisandoActivities</string>
+    <string name="input_label_nombre">Nombre completo</string>
+    <string name="input_name_nombre">nombre</string>
+    <string name="input_label_fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="input_name_fecha_nacimiento">fecha_nacimiento</string>
+    <string name="input_label_telefono">Teléfono</string>
+    <string name="input_name_telefono">telefono</string>
+    <string name="input_label_email">Email</string>
+    <string name="input_name_email">email</string>
+    <string name="input_name_descripcion_contacto">descripcion_contacto</string>
+    <string name="input_label_descripcion_contacto">Descripción contacto</string>
+    <string name="btn_label_siguiente">Siguiente</string>
+    <string name="btn_name_siguiente">btn_siguiente</string>
+
+    <string name="title_label_activity_2">Confirmar datos</string>
+    <string name="btn_label_editar">Editar Datos</string>
+    <string name="btn_name_editar">btn_editar</string>
+
+
+
+</resources>
