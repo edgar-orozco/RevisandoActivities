@@ -16,7 +16,7 @@
     <string name="title_label_activity_2">Confirmar datos</string>
     <string name="btn_label_editar">Editar Datos</string>
     <string name="btn_name_editar">btn_editar</string>
-
+    <string name="pick_date">Seleccione fecha</string>
 
 
 </resources>
