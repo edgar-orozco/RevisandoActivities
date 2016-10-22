@@ -1,8 +1,8 @@
 # RevisandoActivities
-## Imagen de muestra de layout_main
+## Imagen de muestra de activity_main
 ![Imagen Layout](https://cloud.githubusercontent.com/assets/9440039/19615742/a3cbd9b8-97c9-11e6-9a12-5eeaec521071.png)
 
-## Imagen de muestra de layout_revision
+## Imagen de muestra de activity_mostrar
 ![Imagen Layout](https://cloud.githubusercontent.com/assets/9440039/19615744/a3cfa192-97c9-11e6-8837-311e6c947b28.png)
 
 ## Imagen campos de captura en emulador
